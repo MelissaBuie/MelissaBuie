@@ -8,7 +8,7 @@ I build with **JavaScript, React, HTML and CSS**, and I'm adding **Node.js, Expr
 
 | Project | What it is | Tech |
 | --- | --- | --- |
-| [Brain Face Scanner](https://github.com/MelissaBuie/brain-face-scanner) | Full-stack app that detects faces in photos, with sign-up and sign-in | React, Vite, Node, Express, PostgreSQL |
+| [Brain Face Scanner](https://github.com/MelissaBuie/brain-face-scanner) · [demo](https://melissabuie.github.io/brain-face-scanner/) | Full-stack app that detects faces in photos, with sign-up and sign-in | React, Vite, Node, Express, PostgreSQL |
 | [R&M Legacy Business Solutions](https://github.com/MelissaBuie/TheCodingPhoenix) | Live website for my web and admin services business | HTML, CSS, JavaScript, GitHub Pages |
 | [RoboFriends](https://github.com/MelissaBuie/RobotFriends) · [demo](https://melissabuie.github.io/RobotFriends/) | Searchable card list that loads data from an API | React, hooks |
 | [WordWhiz](https://github.com/MelissaBuie/WordWhiz) · [demo](https://melissabuie.github.io/WordWhiz/) | Hangman-style word game | JavaScript, DOM |
